@@ -1,3 +1,3 @@
 # UserWallpaper
  
-Made with Affinity Deasigner
+Made with Affinity Designer
